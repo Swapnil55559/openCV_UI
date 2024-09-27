@@ -53,7 +53,7 @@ This is a simple image-processing application developed using PyQt5 and OpenCV. 
 - Matplotlib
 
 ## Author
-- Argha Kamal Samanta
+- Swapnil Sharma
 
 ## Notes
 - Make sure to have the required dependencies installed before running the application.
